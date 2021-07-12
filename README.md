@@ -1,30 +1,9 @@
-<style>
-div.warn {
-    background-color: #fcf2f2;
-    border-color: #dFb5b4;
-    border-left: 5px solid #fcf2f2;
-    padding: 0.5em;
-    }
-</style>
-
-<style>
-div.attn {
-    background-color: #ffffb3;
-    border-color: #dFb5b4;
-    border-left: 5px solid #ffffb3;
-    padding: 0.5em;
-    }
-</style>
-
-<!--
-     Copyright 2017, DornerWorks
-
-     This software may be distributed and modified according to the terms of
-     the BSD 2-Clause license. Note that NO WARRANTY is provided.
-     See "LICENSE_BSD2.txt" for details.
-
-     @TAG(DORNERWORKS_BSD)
-  -->
+#
+# Copyright 2017, DornerWorks
+# Copyright 2021, Unikie
+#
+# SPDX-License-Identifier: BSD-2-Clause
+#
 
 # CAmkES Debug Manual
 
